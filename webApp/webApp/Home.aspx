@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm.aspx.cs" Inherits="webApp.WebForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="webApp.Home" %>
 
 <!DOCTYPE html>
 
@@ -9,10 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-     hai Welcome to git hub
-        changes the lines
-        hai
-
+    hai theis is new form
     </div>
     </form>
 </body>
